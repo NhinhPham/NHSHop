@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "a975",
+      "name": "Ma đạo tổ sư",
+      "price": "200",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-limlo06hdato19",
+      "description": "truyện theo bộ",
+      "categoryID": "1",
+      "stock": "2"
+    },
+    {
+      "id": "93ad",
+      "name": "Không diệt, không sinh đừng sợ hãi",
+      "price": "200",
+      "image": "https://phatphapungdung.com/sach-noi/wp-content/uploads/2019/10/khong-diet-khong-sinh-dung-so-hai.jpg",
+      "description": "truyện chữ",
+      "categoryID": "5Is05RA",
+      "stock": "258"
+    },
+    {
+      "name": "Muôn Kiếp Nhân Sinh",
+      "price": "150",
+      "image": "https://vnn-imgs-f.vgcloud.vn/2020/06/09/23/cuon-sach-thuc-tinh-va-thay-doi-tam-thuc-con-nguoi.JPG",
+      "description": "truyện chữ",
+      "categoryID": "4",
+      "stock": "100",
+      "id": "CZhXkQy"
+    },
+    {
+      "name": "Lặng nhìn cuộc sống",
+      "price": "123",
+      "image": "https://langnhincuocsong.edu.vn/wp-content/uploads/2020/01/REVIEW-S%C3%81CH-L%E1%BA%B6NG-NH%C3%8CN-CU%E1%BB%98C-S%E1%BB%90NG-1.jpg",
+      "description": "truyện chữ",
+      "categoryID": "5Is05RA",
+      "stock": "123",
+      "id": "i_Jbodd"
+    }
+  ],
+  "users": [
+    {
+      "email": "nhinh@gmail.com",
+      "password": "$2a$10$CZnv1Zuew2B0JBpaESyoHOUaY8ja16lB4xMSl4NGTjc07AJFNXSQW",
+      "name": "admin",
+      "role": "1",
+      "id": "3"
+    },
+    {
+      "id": "d18e",
+      "name": "Nhinh",
+      "email": "nhinh1@gmail.com",
+      "password": "123456",
+      "role": "2"
+    },
+    {
+      "email": "nhinh123@gmail.com",
+      "password": "$2a$10$Z.qmhqMId8i0PDhWkbemSe9kKZgKr/IpDrVg9WFyOB.MikEgjI6oC",
+      "name": "Phạm Thị Nhinh",
+      "role": 2,
+      "id": "hUr6HV3"
+    }
+  ],
+  "category": [
+    {
+      "id": "2",
+      "name": "truyện chữ"
+    },
+    {
+      "name": "tiểu thuyết",
+      "id": "3"
+    },
+    {
+      "name": "sách tâm linh",
+      "id": "4"
+    },
+    {
+      "name": "cuộc sống",
+      "id": "5Is05RA"
+    }
+  ],
+  "cart": [
+    {
+      "product": "9be2",
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "product": "a975",
+      "quantity": 2,
+      "id": 2
+    },
+    {
+      "product": "93ad",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "product": "CZhXkQy",
+      "quantity": 1,
+      "id": 4
+    }
+  ]
+}
